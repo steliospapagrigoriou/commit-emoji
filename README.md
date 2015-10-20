@@ -23,6 +23,7 @@ List of Emojis for commits:
 #####* :ambulance: when fixing bugs
 #####* :checkered_flag: when bumping version number
 #####* :arrow_up: when upgrading a module / component
+#####* :poop: Commiting shitty code
 
 Example:
 
